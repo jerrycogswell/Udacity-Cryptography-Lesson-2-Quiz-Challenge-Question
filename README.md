@@ -1,4 +1,4 @@
-# Udacity-Lesson-2-Quiz-Challenge-Question
+# Udacity-Cryptography-Lesson-2-Quiz-Challenge-Question
 My solution to the Udacity Lesson 2 Quiz Challenge. It decodes two messages encrypted with a one-time pad.
 
 This is my solution to the Udacity Lesson 2 Quiz Cryptography Challenge. I took an interactive approach that does not require lots of computing power. The user interface works like this:
